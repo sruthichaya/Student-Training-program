@@ -1,1 +1,1 @@
-# myproject
+# Student Training Program
